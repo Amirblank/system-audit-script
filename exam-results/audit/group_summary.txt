@@ -1,0 +1,6 @@
+# | Group summary |
+root:x:0:
+daemon:x:1:
+bin:x:2:
+gamemode:x:986:
+gnome-initial-setup:x:985:

@@ -1,0 +1,11 @@
+# | Top logs |
+146M	/var/log
+133M	/var/log/journal/4fab097c37a7462cbce55629da59915c
+133M	/var/log/journal
+8.0M	/var/log/journal/4fab097c37a7462cbce55629da59915c/user-1000.journal
+8.0M	/var/log/journal/4fab097c37a7462cbce55629da59915c/system.journal
+7.0M	/var/log/journal/4fab097c37a7462cbce55629da59915c/system@512e2cdb48f243908f3aca3889a593e0-00000000000063be-000650fdc7c93619.journal
+6.6M	/var/log/journal/4fab097c37a7462cbce55629da59915c/system@6f96f4c99d284fb1a5e572fa6fd69609-000000000000040b-000650dc3e503c15.journal
+6.0M	/var/log/journal/4fab097c37a7462cbce55629da59915c/system@eca8c661a7af40c8af2b0f74f7e914b0-00000000000043a0-000650ebbacc0d2e.journal
+5.4M	/var/log/syslog
+5.4M	/var/log/journal/4fab097c37a7462cbce55629da59915c/system@eca8c661a7af40c8af2b0f74f7e914b0-00000000000036f1-000650ebba21f9e5.journal

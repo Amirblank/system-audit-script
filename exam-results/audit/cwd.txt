@@ -1,0 +1,2 @@
+# | Working Directory Path |
+/home/amir/Documents
