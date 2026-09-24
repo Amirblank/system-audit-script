@@ -1,0 +1,3 @@
+# | Users with /bin/bash shell |
+root
+amir

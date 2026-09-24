@@ -1,0 +1,2 @@
+# | Hosts perm |
+-rw------- 1 amir amir 220 May  5 15:37 /home/amir/exam-results/audit/hosts.bak
